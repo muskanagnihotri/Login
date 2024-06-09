@@ -28,12 +28,12 @@
 .textbox{
     padding: 10px 40px;
     background-color: #236B8E; 
-    text-color: #FFFFFF;
+    text-color: #f8efef;
     border-radius: 10px;
 }
     
 ::placeholder {
-    color: #FFFFFF;
+    color: #f5ebeb;
     opacity: 1;
     font-style: oblique;
     font-weight: bold;
